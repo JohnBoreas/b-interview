@@ -1,6 +1,6 @@
 ThreadPoolExecutor
 
-#### 一、ThreadPoolExecutor有6个参数：
+#### 一、ThreadPoolExecutor有7个参数：
 
 corePoolSize：核心线程数
 
